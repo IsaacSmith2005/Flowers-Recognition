@@ -14,7 +14,7 @@ RADIUS = 3              # Bán kính vùng lân cận
 N_POINTS = 8 * RADIUS   # Số điểm lân cận
 
 # Lấy ngày hiện tại để lưu file kết quả
-today = datetime.now().strftime("%Y-%m-%d")
+today = datetime.now().strftime("%Y-%m-%d") 
 
 # Tạo thư mục lưu kết quả nếu chưa tồn tại
 
